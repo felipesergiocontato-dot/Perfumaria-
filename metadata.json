@@ -1,0 +1,6 @@
+{
+  "name": "AutoGastos",
+  "description": "Controle de abastecimento, consumo médio (Km/L), custo por km, fotos de odômetro e recibos, despesas e relatórios mensais em PDF, Excel e CSV com backup em nuvem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
